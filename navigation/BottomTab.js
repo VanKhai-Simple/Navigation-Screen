@@ -2,7 +2,7 @@ import React from "react";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { Image, View } from "react-native";
 
-import HomeScreen from "../screens/SuccessScreen";
+import HomeScreen from "../screens/PaymentScreen";
 import NotificationScreen from "../screens/NotificationScreen";
 import ScanScreen from "../screens/ScanScreen";
 import HistoryScreen from "../screens/HistoryScreen";
