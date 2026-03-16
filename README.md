@@ -2,8 +2,8 @@
 
 ++ Payment Screen
 
-<img src="image.png">
+<img src="image-1.png">
 
 ++ Success Screen
 
-<img src="image-1.png">
+<img src="image.png">
