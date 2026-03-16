@@ -73,7 +73,8 @@ container:{
 flex:1,
 backgroundColor:"#ECE0D0",
 justifyContent:"center",
-alignItems:"center"
+alignItems:"center",
+marginBottom:50,
 },
 
 backgroundImage:{
