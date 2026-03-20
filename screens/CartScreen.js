@@ -8,6 +8,7 @@ import {
   FlatList
 } from "react-native";
 
+// Cart Screen
 export default function CartScreen({ navigation }) {
 
   const [cart, setCart] = useState([

@@ -8,6 +8,7 @@ import CartScreen from "../screens/CartScreen";
 import SuccessScreen from "../screens/SuccessScreen";
 const Stack = createNativeStackNavigator();
 
+// Main Stack Navigator
 export default function MainStack() {
     return (
         <Stack.Navigator screenOptions={{ headerShown: false }}>
